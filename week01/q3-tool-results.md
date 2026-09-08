@@ -2,14 +2,9 @@
 
 ## How to use this page
 
-**Choose an action first, then click its heading below to reveal the result.** Return to the activity sheet and write what the agent now knows.
+**Choose an action first, then click its heading below to reveal the result.** Return to the activity sheet and write what the agent now knows. Actions are grouped by kind, not by recommended order.
 
-<details>
-<summary><strong>Click to reveal:</strong> Ask what “soon” means</summary>
-
-The user replies: “I need to arrive within 20 minutes.”
-
-</details>
+## Tool actions
 
 <details>
 <summary><strong>Click to reveal:</strong> Query step-free routes to the Student Wellbeing Centre</summary>
@@ -49,13 +44,6 @@ The estimate is about 17 minutes in normal conditions.
 </details>
 
 <details>
-<summary><strong>Click to reveal:</strong> Ask whether the user prefers the less certain faster route</summary>
-
-The user replies: “Please prioritise a reliably step-free route.”
-
-</details>
-
-<details>
 <summary><strong>Click to reveal:</strong> Contact the Student Wellbeing Centre about Route East</summary>
 
 Staff cannot confirm Route East immediately. Waiting would risk the 20-minute requirement.
@@ -66,5 +54,21 @@ Staff cannot confirm Route East immediately. Waiting would risk the 20-minute re
 <summary><strong>Click to reveal:</strong> Repeat an accessibility query without any new information</summary>
 
 The same timestamped result is returned. The query still incurs its small cost.
+
+</details>
+
+## Questions for the user
+
+<details>
+<summary><strong>Click to reveal:</strong> Ask what “soon” means</summary>
+
+The user replies: “I need to arrive within 20 minutes.”
+
+</details>
+
+<details>
+<summary><strong>Click to reveal:</strong> Ask whether the user prefers the less certain faster route</summary>
+
+The user replies: “Please prioritise a reliably step-free route.”
 
 </details>
