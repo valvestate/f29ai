@@ -2,7 +2,7 @@
 
 Written, self-paced practicals that replace a live-coding walkthrough. Read them online here and work with the PDDL files you already downloaded from the [Week 4 PDDL examples and planning resources](https://canvas.hw.ac.uk/courses/35362/pages/week-4-pddl-examples-and-planning-resources) Canvas page. You do not need Git or to download this repository.
 
-Please report any problems you find.
+Please report any problems you find to [Muhammad Najib](https://github.com/valvestate) via m.najib@hw.ac.uk.
 
 ## Start here
 
